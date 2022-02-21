@@ -18,7 +18,7 @@ $ make install
 For Windows which doesn't have `make` inbuilt 
 ```sh
 $ git clone https://github.com/purplegrapeZz/Telegram_media_downloader.git
-$ cd telegram_media_downloader
+$ cd Telegram_media_downloader
 $ pip3 install -r requirements.txt
 ```
 
