@@ -4,11 +4,11 @@ import cfg
 
 
 app = Client(
-	session_name = 'user',
+	name = 'user',
 	api_id = cfg.API_ID,
 	api_hash = cfg.API_HASH,
 	phone_number = cfg.PHONE_NUMBER,
-	# proxy = dict(hostname = cfg.HOST,port = cfg.PORT),
+	# proxy = dict(scheme = 'socks5', hostname = cfg.HOST, port = cfg.PORT),
 	# bot_token = cfg.BOT_TOKEN,
 )
 async def main():
