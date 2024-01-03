@@ -4,7 +4,7 @@ Download photos and videos from a conversation or a channel that you are a membe
 ### Support:
 | Category             | Support                 |
 | -------------------- | ----------------------- |
-| Language             | `Python 3.6 ` and above |
+| Language             | `Python 3.9 ` and above |
 | Download media types | photo, video, files     |
 
 ### Installation
